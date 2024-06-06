@@ -24,6 +24,8 @@ pip install requests beautifulsoup4 boto3 urllib3
 The DynamoDB table should have the following schema:
 Table Name: scrapping
 Primary Key: Job title (String)
+
+To run the project you just need to run the files only nothing else you have to do.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Note - I know access key is the sensitive thing but dynamodb can't be opened without access keys so I have mentioned in the code itself.
