@@ -24,6 +24,8 @@ pip install requests beautifulsoup4 boto3 urllib3
 The DynamoDB table should have the following schema:
 Table Name: scrapping
 Primary Key: Job title (String)
+The below link is to view the table content on AWS console as a table in dynamodb.
+https://us-east-1.console.aws.amazon.com/dynamodbv2/home?region=us-east-1#item-explorer?maximize=true&operation=SCAN&table=scrapping
 
 To run the project you just need to run the files only nothing else you have to do.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
